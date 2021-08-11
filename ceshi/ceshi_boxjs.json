@@ -1,0 +1,22 @@
+  
+{
+  "id": "chen.sub",
+  "name": "chen",
+  "description": "",
+  "author": "@chen",
+  "icon": "",
+  "repo": "",
+  "apps":[{"id": "51poje",
+    "name": "吾爱1破解",
+    "keys": ["ckWA"],
+    "script": "",
+    "author": "@chen",
+    "repo": "",
+    "icons": ""
+  },{"id": "aiqiyi",
+    "name":"chen1",
+    "keys":["aicookie"],
+    "script":"",
+    "author":"@chen1",
+    "repo":"",
+    "icons":""}]}
