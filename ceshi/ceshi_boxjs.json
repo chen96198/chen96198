@@ -6,20 +6,28 @@
   "author": "@chen",
   "icon": "",
   "repo": "",
-  "apps":[{"id": "51poje",
+  "apps":[{
+    "id": "51poje",
     "name": "吾爱1破解",
     "keys": ["ckWA"],
     "script": "",
     "author": "@chen",
     "repo": "",
     "icons": ""
-  },{"id": "aiqiyi",
+  },{
+    "id": "aiqiyi",
     "name":"chen1",
     "keys":["aicookie"],
     "script":"",
     "author":"@chen1",
     "repo":"",
-    "icons":""}],
-"task":[{"config": "15 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png",
+    "icons":""
+  }],
+"task": [{
+  "config": "15 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png",
     "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
-  },{"config":"0 8 * * * https://github.com/chen96198/1/blob/main/wuai/wuaipojie.js, tag=吾爱1破解签到, img-url=https://raw.githubusercontent.com/chen96198/1/main/wuai/2.jpg"}]}
+  },{
+    "config":"0 8 * * * https://github.com/chen96198/1/blob/main/wuai/wuaipojie.js, tag=吾爱1破解签到, img-url=https://raw.githubusercontent.com/chen96198/1/main/wuai/2.jpg",
+    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+    }]
+}
